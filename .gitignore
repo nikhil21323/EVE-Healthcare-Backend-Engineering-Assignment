@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+postgres_data/
+// docker compose up --build
+// http://localhost:8000/docs
